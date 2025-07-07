@@ -1,4 +1,4 @@
-import type { MenuItem, OrderItem } from "../types";
+import type { OrderItem } from "../types";
 import { formatCurrency } from "../helpers";
 import type { Dispatch } from "react";
 import type { OrderActions } from "../reducers/order-reducer";
